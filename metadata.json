@@ -1,0 +1,6 @@
+{
+  "name": "ITS Booking System",
+  "description": "An admin panel for ITS, featuring management tools, analytics, and a customizable booking form builder, all powered by Supabase.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
